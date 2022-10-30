@@ -1,3 +1,13 @@
+// ==UserScript==
+// @name        愛分享
+// @namespace   Violentmonkey Scripts
+// @match       https://www.i-sharing.com.tw/iweb/main
+// @grant       none
+// @version     1.0
+// @author      -
+// @description 2022/10/26
+// ==/UserScript==
+
 function sleep(delay) {
     for (var t = Date.now(); Date.now() - t <= delay;);
 }
