@@ -1,2 +1,5 @@
-012,230618,0,0
-promoMechQry.PROMO,#"dt_promo_no":"D20230619001"#"m_promo_no":"M20230619010"#"qry_type":"1003"
+012,230711,0,2
+CloudVote.PROMO,#"doAction":"gotoVote"#"promoNo":"P020230711"#"no":"A_327"
+CloudVote.PROMO,#"doAction":"gotoVote"#"promoNo":"P020230711"#"no":"A_327"
+CloudVote.PROMO,#"doAction":"gotoVote"#"promoNo":"P020230711"#"no":"A_327"
+CloudVote.PROMO,#"doAction":"share"#"promoNo":"P020230711"#"no":"A_327"#"shareBy":"line"
