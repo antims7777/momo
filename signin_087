@@ -1,2 +1,2 @@
 看直播抽好禮,[ update by 2023.08.01 ],0,1
-promoMechReg.PROMO,doAction=reg&m_promo_no=M20230801289&dt_promo_no=D20230801001&gift_code=
+promoMechReg.PROMO,"doAction":"reg"#"m_promo_no":"M20230801289"#"dt_promo_no":"D20230801001"#"gift_code"=""
